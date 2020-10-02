@@ -1,0 +1,7 @@
+name: CoolTIme
+authors:
+  - finixbase123
+  - ChaNu
+api-version: 3.0.0
+main: chanu\CoolTime
+version: v1
